@@ -1,12 +1,12 @@
 {
-    "name": "amegatron/cryptoapi",
+    "name": "mgazelle/cryptoapi",
     "description": "Provides classes for implementing encrypted API with the client software",
     "keywords": ["laravel", "cryptography", "rsa", "aes", "api"],
     "license": "DBAD",
     "authors": [
         {
-            "name": "Aleksandr Egorov",
-            "email": "amego2006@gmail.com"
+            "name": "Mongi Gazelle",
+            "email": "mgaz59@hotmail.com"
         }
     ],
     "require": {
